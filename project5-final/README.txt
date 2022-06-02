@@ -1,1 +1,0 @@
-Please run the notebook on google colab, since tensorflow was unable to be imported when it is ran using jupyter notebook.
